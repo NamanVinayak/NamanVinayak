@@ -17,6 +17,9 @@ Vancouver, BC.
   on top of Remotion, HyperFrames and FFmpeg.
 - **[viral-clip-extractor](https://github.com/NamanVinayak/viral-clip-extractor)**: long
   videos into captioned 9:16 shorts (Hindi included), with two-stage LLM clip selection.
+- **[ai-multi-agent-storyboarder](https://github.com/NamanVinayak/ai-multi-agent-storyboarder)**:
+  script to storyboard with a crew of agents (producer, director, DOP, prompt engineer),
+  image generation, and DaVinci Resolve XML export. Unfinished, shared for forking.
 - **[hand-tracking-pipeline](https://github.com/NamanVinayak/hand-tracking-pipeline)**:
   egocentric hand tracking for robotics data, MediaPipe locally and HaMeR on serverless GPU.
 
