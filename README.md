@@ -8,7 +8,11 @@ I come from film, so a lot of my work sits where software meets video. Vancouver
 **What I've built**
 - **A point-of-sale system running a home-furnishings store in BC** (private client work,
   live since October 2026): sales, deliveries, returns and exchanges, store credit, a
-  Shopify website link, backups and daily email reports. I also built the store's website.
+  Shopify website link, backups and daily email reports.
+- **The same store's new website** ([instylehomefurnishings.ca](https://www.instylehomefurnishings.ca)):
+  a custom Shopify storefront built from scratch with 24 custom sections, including
+  scroll-scrubbed hero and furniture-assembly films, shoppable room scenes with hotspots, and
+  a showroom tour. The films and imagery were made with generative AI video and image models.
 - **[Postgame](https://github.com/NamanVinayak/postgame)**: free Chess.com game review with
   Stockfish running in the browser (React + TypeScript, 170 tests, CI). Next up is
   [Postgame Coach](https://github.com/NamanVinayak/postgame/blob/main/ROADMAP.md), an AI
